@@ -6,6 +6,7 @@
 
 .wrapper{
     background-color:  #FFFDF4;
+    height: 100vh;
 }
 .header{
     width: 519px;
@@ -15,6 +16,7 @@
     flex-direction: column;
     gap: 20px;
     padding: 70px 100px;
+    height: 100%;
 }
 .title{
     font-family: 'Poppins';
