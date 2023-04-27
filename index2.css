@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+
+}
+.image{
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    background: url("./images/Galaxy_Buds2_Lifestyle\ 1.png") no-repeat;
+    background-size: 100% 100%;
+}
+.content
+{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.head-content{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.3);
+    margin-top: -100px;
+}
+.dauphay{
+    margin-top: 55px;
+    margin-left: 48%;
+    width: 46px;
+    height: 46px;
+    background: url("./images/Vector.png");
+}
+.description{
+    width: 327px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+}
+.name-author
+{
+    text-align: center;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+}
+.Artist
+{
+    text-align: center;
+
+    font-weight: 400;
+    font-size: 10px;
+    color: #E0E0E0;
+}
+
