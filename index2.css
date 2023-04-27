@@ -13,7 +13,7 @@
 }
 .container{
     
-    width: 80%;
+    width: 67%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -50,10 +50,9 @@
     width: 100%;
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    padding-left: 50px;
     padding-top: 15px;
     padding-bottom: 20px;
-    font-size: 27px;
+    font-size: 25px;
     
 }
 .name-author
